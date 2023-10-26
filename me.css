@@ -28,66 +28,66 @@ body {
 .sba7{
     margin-top:300px;
     color: aliceblue;
-    margin-left:50px;
-}
-.instagram{
-margin-left: 20px;
-border-radius: 30px;
-
-}
-.whatsapp{
-width: 246px;
-margin-left: 555px;
-border-radius: 30px;
-}
-.gmail{
-    width: 246px;
-    margin-left: 500px;
-    border-radius: 30px;
-}
-.instagram_txt{
-    color: white;
-    margin-left:30px;
-    padding-left:20px;
-    background-color: rgb(0, 0, 0);
-    padding-top:10px;
+    margin-left:807px;
+    background-color: rgb(0, 66, 83);
+    padding-left:70px;
+    padding-top: 10px;
     padding-bottom:10px;
-    max-width: 200px;
-    margin-top: 20px;
+    max-width:200px;
+    border-radius:50px;
     transition: 0.30s;
-    border-radius: 10px;
 }
-.instagram_txt:hover{
-    color: rgb(79, 79, 79);
-    background-color:lightblue;
+.sba7:hover{
+    background-color: black;
+    color: rgb(148, 148, 148);
+}
+.insta_txt{
+    color: aliceblue;
+    margin-left:100px;
+    background-color: rgb(1, 33, 73);
+    transition:0.30s;
+    padding-left:20px;
+    padding-bottom:10px;
+    padding-top:10px;
+    max-width:170px;
+    border-radius:10px;
+}
+.insta_txt:hover{
+    background-color: black;
+    color: rgb(129, 129, 129);
 }
 .whatsapp_txt{
-    color: white;
-    margin-left: 857px;
-    background-color: rgb(0, 0, 0);
-    padding-left: 20px;
+    color: aliceblue;
+    margin-left: 100px;
+    margin-top:90px;
+    background-color: rgb(1, 33, 73);
+    transition:0.30s;
+    padding-left:20px;
+    padding-bottom:10px;
     padding-top:10px;
-    padding-bottom: 10px;
-    max-width: 160px;
+    max-width:170px;
     border-radius:10px;
-    transition: 0.30s;
 }
+
+
 .whatsapp_txt:hover{
-    background-color: lightblue;
-    color: rgb(79, 79, 79);
+    background-color: black;
+    color: rgb(129, 129, 129);
 }
 .gmail_txt{
-    color: rgb(255, 255, 255);
-    margin-left:1520px;
-    background-color: rgb(0, 0, 0);
-    padding-top:10px;
+    color: aliceblue;
+    margin-top: 90px;
+    margin-left:100px;
+    background-color: rgb(1, 33, 73);
+    transition:0.30s;
+    padding-left:20px;
     padding-bottom:10px;
-    max-width: 340px;
-    padding-left: 20px;
-    transition: 0.30s;
+    padding-top:10px;
+    max-width:340px;
     border-radius:10px;
 }
+
 .gmail_txt:hover{
-    background-color:lightblue;
-    color: rgb(79, 79, 79);
+    background-color: black;
+    color: rgb(129, 129, 129);
 }
