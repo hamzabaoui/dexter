@@ -1,0 +1,96 @@
+.sup{
+  margin-top: 200px;
+}
+.lkouzina{
+    width:700px;
+    height: 500px;
+    border-radius:50px;
+    margin-left:180px;
+}
+  .lb7r{
+    width: 350px;
+    height: 500px;
+    border-radius: 50px;
+    margin-left: 410px;
+    }
+  .tlj{
+    width: 300;
+    height: 500px;
+    border-radius:50px;
+    margin-left: 30px;
+  }
+  .luffy{
+    width: 330px;
+    height: 500px;
+    border-radius: 50px;
+    margin-left: 30px;
+  }
+  .lil{
+    width: 360px;
+    height: 500px;
+    border-radius:50px;
+    margin-left: 1070px;
+  }
+  .tahiya{
+    width: 370px;
+    height: 500px;
+    border-radius:50px;
+    margin-left: 30px;
+  }
+  .ma3aabi{
+    width: 370px;
+    height: 500px;
+    border-radius:50px;
+    margin-left:180px;
+  }
+  .hmn{
+    margin-top:300px;
+  }
+  .cong{
+    margin-top:100px;
+  }
+  .lkhtba{
+    width: 370px;
+    height: 500px;
+    border-radius: 50px;
+    margin-left: 350px;
+  }
+
+  body {
+    background: rgb(0,18,106);
+    background: radial-gradient(circle, rgba(0,18,106,1) 0%, rgba(0,5,29,1) 76%, rgba(0,0,0,1) 100%);
+    background-repeat: no-repeat; 
+    background-size: cover;
+    font-family: system-ui;
+    min-height: 100vh;
+}
+.hojij{
+  width:10px;
+  height:10px;
+
+}
+.secret{
+  width: 650px;
+  height: 500px;
+
+}
+.custom-shape-divider-top-1698498516 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+}
+
+.custom-shape-divider-top-1698498516 svg {
+  position: relative;
+  display: block;
+  width: calc(100% + 1.3px);
+  height: 140px;
+}
+
+.custom-shape-divider-top-1698498516 .shape-fill {
+  fill: rgb(0,18,106);
+  fill:  radial-gradient(circle, rgba(0,18,106,1) 0%, rgba(0,5,29,1) 76%, rgba(0,0,0,1) 100%);
+}
